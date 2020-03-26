@@ -1,0 +1,22 @@
+.about {
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    width: 60%;
+    font-size: 2.5em ;
+    font-weight: bold;
+    color: #19248a;
+}
+
+.contacts {
+    line-height: 1.5em;
+    font-size: 1.2em;
+}
+
+ul {
+    list-style: none;
+}
+

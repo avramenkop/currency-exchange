@@ -1,0 +1,21 @@
+.offices {
+     width: 100%;
+ }
+
+.office {
+    margin: 30px auto;
+    width: 90%;
+}
+
+.img {
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+p {
+    margin: 10px 0;
+}
